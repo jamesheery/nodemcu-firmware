@@ -1,3 +1,4 @@
+[![Board Status](https://jamesheery.visualstudio.com/86ab0edf-70f6-4a03-90dd-31e797811c09/e8b0603f-a50d-4684-8ee6-7c71b27ac51d/_apis/work/boardbadge/ebb558da-70ee-459e-b8d5-5151b2a84599)](https://jamesheery.visualstudio.com/86ab0edf-70f6-4a03-90dd-31e797811c09/_boards/board/t/e8b0603f-a50d-4684-8ee6-7c71b27ac51d/Microsoft.RequirementCategory)
 # **NodeMCU** #
 version 0.9.5
 
